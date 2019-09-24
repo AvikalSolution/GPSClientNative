@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <!--Eror-->
+    <string name="server_issue">Something went wrong</string>
+
+
+    <string name="google_places_api_key"
+        templateMergeStrategy="preserve"
+        translatable="false">AIzaSyBVmcasMIrDk0vsYegJT8ECGpfyZXkNGJA</string>
+
+
+
+</resources>

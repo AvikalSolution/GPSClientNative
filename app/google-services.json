@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386157758223",
+    "firebase_url": "https://hoopydev.firebaseio.com",
+    "project_id": "hoopydev",
+    "storage_bucket": "hoopydev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386157758223:android:ce58a7902c290219e0207a",
+        "android_client_info": {
+          "package_name": "com.huulke.hoppytrainee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386157758223-45v8f6d89b74t9b4cel56oikvggo5bq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huulke.hoppytrainee",
+            "certificate_hash": "fab13f75539d4506e297d272849ef7583afd798f"
+          }
+        },
+        {
+          "client_id": "386157758223-ck9ubf9oi6fskbhd78k8aq4m3bot61am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAnwKp1ug9AgPEa57OyKJ_kerTNpGuxnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386157758223-ck9ubf9oi6fskbhd78k8aq4m3bot61am.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386157758223-fhoelo54hpi8raoj0ivo49sjacs89g3q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.huulke.hoppytrainer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
