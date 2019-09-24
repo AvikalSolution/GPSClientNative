@@ -13,7 +13,7 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.mvp.mapactivity.R;
-import com.mvp.mapactivity.ChatApplication;
+import com.mvp.mapactivity.MyApplication;
 import com.mvp.mapactivity.utills.Constant;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -32,7 +32,7 @@ public class MapDisplayActivity extends AppCompatActivity implements OnMapReadyC
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_map_display);
         getSupportActionBar().hide();
-        ChatApplication app = (ChatApplication) getApplication();
+        MyApplication app = (MyApplication) getApplication();
         mSocket = app.getSocket();
         mSocket.connect();
 

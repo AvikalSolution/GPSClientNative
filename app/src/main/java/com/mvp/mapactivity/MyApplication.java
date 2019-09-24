@@ -11,7 +11,7 @@ import io.socket.client.IO;
 
 
 
-public class ChatApplication extends Application {
+public class MyApplication extends Application {
 
     private Socket mSocket;
     {
